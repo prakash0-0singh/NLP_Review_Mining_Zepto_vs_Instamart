@@ -1,4 +1,4 @@
-# NLP Review Mining — Google Play Store Apps (Zepto vs Instamart)
+# NLP Review Mining - Google Play Store Apps (Zepto vs Instamart)
 
 ## Project Overview
 
